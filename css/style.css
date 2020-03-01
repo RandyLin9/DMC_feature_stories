@@ -8627,7 +8627,7 @@ textarea.form-control {
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 0em 0; } }
 
 .ftco-bg-dark {
   background: #3c312e; }
@@ -8641,7 +8641,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #222831;
-  padding: 5em 0 3em 0; }
+  padding: 0em 0 0em 0; }
   .ftco-footer .logo {
     font-size: 34px !important;
     font-weight: 800 !important;
