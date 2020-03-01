@@ -8197,6 +8197,11 @@ h1, h2, h3, h4, h5,
   .navbar-brand img{ height: 100%; 
     width: auto; }
 
+.navbar-logo {
+    float: left; 
+    height: 80px; }
+    .navbar-logo img{ height: 100%; 
+     width: auto; }
 
   /* font-weight: 900;
   font-size: 26px;
